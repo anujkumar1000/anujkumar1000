@@ -1,6 +1,6 @@
 ### Hi there 👋
-⚡ Fun fact: I Love to play all kind of sports!
-💬 Ask me about anything related to sports
+⚡ Fun fact: I Love to play all kind of sports! <br>
+💬 Ask me about anything related to sports <br>
 🌱 I’m currently learning C++
 
 <!--
