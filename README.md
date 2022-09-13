@@ -1,4 +1,7 @@
 ### Hi there 👋
+⚡ Fun fact: I Love to play all kind of sports!
+💬 Ask me about anything related to sports
+🌱 I’m currently learning C++
 
 <!--
 **anujkumar1000/anujkumar1000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
